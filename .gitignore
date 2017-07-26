@@ -1,0 +1,11 @@
+www
+node_modules
+# Mac
+.DS_Store
+
+
+platforms
+# res
+resources/signing
+
+output/*
